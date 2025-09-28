@@ -1,0 +1,57 @@
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:21:26 AM  May 13, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:57:36 AM  May 13, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:53:04 PM  May 13, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 4:53:40 PM  May 13, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:14:14 AM  Jun 02, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+[error] No FlexNet Publisher (FNP) license found for feature simplorer_desktop.
+            FNP license path
+1055@SCORPIAO
+No such feature exists.
+Feature
+simplorer_desktop
+License path
+1055@SCORPIAO;
+FlexNet Licensing error
+-5,147
+
+
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:49:02 AM  Jun 02, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft

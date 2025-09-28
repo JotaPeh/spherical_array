@@ -1,0 +1,445 @@
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:58:27 AM  Sep 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:11:01 AM  Sep 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:27:16 AM  Sep 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+[error] While parsing expression: "Falsemeter", an error was found near character 9. 'Falsemeter' is not a defined variable name in this context.
+While parsing expression: "Falsemeter", an error was found near character 9. 'Falsemeter' is not a defined variable name in this context.
+
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:28:47 AM  Sep 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:43:03 AM  Sep 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:12:57 PM  Sep 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:14:21 PM  Sep 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 1:09:34 PM  Sep 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:27:02 PM  Sep 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:10:14 PM  Sep 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:12:31 PM  Sep 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+[warning] Electronics Desktop cannot be closed right now because it is being used by another application, script or extension wizard.
+
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 57351. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'CP' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 1sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Open Region correctly created.
+        [info] Project Spherical_Array Saved correctly
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmpgjgduwhe.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmpgjgduwhe.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 3sec
+        [info] aedt file load time 2.972015619277954
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 5.0m 35.0s
+        [warning] Electronics Desktop cannot be closed right now because it is being used by another application, script or extension wizard. 
+        [warning] Electronics Desktop cannot be closed right now because it is being used by another application, script or extension wizard.
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 7:49:31 PM  Sep 19, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 8:02:13 PM  Sep 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:17:30 PM  Sep 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:39:54 PM  Sep 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+Are you sure you want to delete solution data? This operation is not undoable.
+Are you sure you want to delete solution data? This operation is not undoable.
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 58422. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'CP' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 1sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Open Region correctly created.
+        [info] Project Spherical_Array Saved correctly
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmpob9hzm64.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmpob9hzm64.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 3sec
+        [info] aedt file load time 3.1583714485168457
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 5.0m 42.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 8.0m 54.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 17.0m 5.0s
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Active Design set to CP
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [error] Error in Solving Setup GPS_Band
+        [info] Are you sure you want to delete solution data? This operation is not undoable.
+        [info] Are you sure you want to delete solution data? This operation is not undoable.
+        [info] Plot Diel_Mesh exists. returning the object.
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 2.0h 12.0m 22.0s
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 1:28:03 AM  Sep 20, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:10:22 PM  Sep 26, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:10:32 PM  Sep 26, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:29:17 PM  Sep 26, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 57687. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'CP' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 1sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Open Region correctly created.
+        [info] Project Spherical_Array Saved correctly
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmp63m_06s0.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmp63m_06s0.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 3sec
+        [info] aedt file load time 3.197143793106079
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 5.0m 35.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 9.0m 30.0s
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 4:48:30 PM  Sep 26, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:51:58 PM  Sep 26, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 8:03:10 PM  Sep 26, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 58598. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'CP' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 6sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Open Region correctly created.
+        [info] Project Spherical_Array Saved correctly
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmp2zcq1yy8.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmp2zcq1yy8.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 3sec
+        [info] aedt file load time 2.8417611122131348
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 5.0m 40.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 10.0m 19.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 9.0m 46.0s
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Active Design set to CP
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 1.0h 22.0m 44.0s
+        [error] Failed to create traces on the report. Check input parameters
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\ITA\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\ITA\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\ITA\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\ITA\AppData\Local\Temp\ipykernel_4388\2760862187.py", line 68, in <module>
+        [error]     hfss.post.export_report_to_csv(project_dir="C:/Users/ITA/Documents/Alunos/JoaoPedroFalcao/Mestrado/Codes",plot_name="Eff1")
+        [error] AEDT API Error on export_report_to_file
+        [error] Last Electronics Desktop Message - [error] script macro error: abnormal script termination. (10:19:06 pm  sep 26, 2025)  
+        [error] Method arguments: 
+        [error]     output_dir = C:/Users/ITA/Documents/Alunos/JoaoPedroFalcao/Mestrado/Codes 
+        [error]     plot_name = Eff1 
+        [error]     extension = .csv 
+        [error] **************************************************************
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] Failed to create traces on the report. Check input parameters
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\ITA\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\ITA\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\ITA\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\ITA\AppData\Local\Temp\ipykernel_4388\2658739428.py", line 1, in <module>
+        [error]     hfss.post.export_model_picture(full_name="C:/Users/ITA/Documents/Alunos/JoaoPedroFalcao/Mestrado/Codes/Back_View", show_axis=True, show_grid=True, show_ruler=True, show_region='Default', selections=None, field_selections="all", orientation='back'
+        [error] , width=0, height=0)
+        [error] AEDT API Error on export_model_picture
+        [error] Last Electronics Desktop Message - [error] script macro error: abnormal script termination. (10:19:06 pm  sep 26, 2025)  
+        [error] Method arguments: 
+        [error]     full_name = C:/Users/ITA/Documents/Alunos/JoaoPedroFalcao/Mestrado/Codes/Back_View 
+        [error]     show_axis = True 
+        [error]     show_grid = True 
+        [error]     show_ruler = True 
+        [error]     show_region = Default 
+        [error]     field_selections = all 
+        [error]     orientation = back 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\ITA\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\ITA\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\ITA\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\ITA\AppData\Local\Temp\ipykernel_4388\2562431817.py", line 1, in <module>
+        [error]     hfss.post.export_model_picture(full_name="C:/Users/ITA/Documents/Alunos/JoaoPedroFalcao/Mestrado/Codes", show_axis=True, show_grid=True, show_ruler=True, show_region='Default', selections=None, field_selections="all", orientation='back', width=0,
+        [error]  height=0)
+        [error] AEDT API Error on export_model_picture
+        [error] Last Electronics Desktop Message - [error] can not export image to file 'c:/users/ita/documents/alunos/joaopedrofalcao/mestrado/codes'. please make sure that the filename is valid and that the destination directory is writeable. (11:53:04 am  sep 27,
+        [error]  2025)  
+        [error] Method arguments: 
+        [error]     full_name = C:/Users/ITA/Documents/Alunos/JoaoPedroFalcao/Mestrado/Codes 
+        [error]     show_axis = True 
+        [error]     show_grid = True 
+        [error]     show_ruler = True 
+        [error]     show_region = Default 
+        [error]     field_selections = all 
+        [error]     orientation = back 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\ITA\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\ITA\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\ITA\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\ITA\AppData\Local\Temp\ipykernel_4388\1400124426.py", line 1, in <module>
+        [error]     hfss.post.export_model_picture(full_name="C:\\Users\\ITA\\Documents\\Alunos\\JoaoPedroFalcao\\Mestrado\\Codes", show_axis=True, show_grid=True, show_ruler=True, show_region='Default', selections=None, field_selections="all", orientation='back', w
+        [error] idth=0, height=0)
+        [error] AEDT API Error on export_model_picture
+        [error] Last Electronics Desktop Message - [error] can not export image to file 'c:/users/ita/documents/alunos/joaopedrofalcao/mestrado/codes'. please make sure that the filename is valid and that the destination directory is writeable. (11:56:16 am  sep 27,
+        [error]  2025)  
+        [error] Method arguments: 
+        [error]     full_name = C:\Users\ITA\Documents\Alunos\JoaoPedroFalcao\Mestrado\Codes 
+        [error]     show_axis = True 
+        [error]     show_grid = True 
+        [error]     show_ruler = True 
+        [error]     show_region = Default 
+        [error]     field_selections = all 
+        [error]     orientation = back 
+        [error] **************************************************************
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 11:59:47 AM  Sep 27, 2025

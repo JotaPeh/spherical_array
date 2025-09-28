@@ -1,0 +1,416 @@
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:59:03 PM  Sep 27, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 63147. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'CP' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 1sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 11:00:42 PM  Sep 27, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:01:27 PM  Sep 27, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 63218. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'CP' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch2 has been created.
+        [info] Boundary Wave Port Wave_Port2 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch3 has been created.
+        [info] Boundary Wave Port Wave_Port3 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch4 has been created.
+        [info] Boundary Wave Port Wave_Port4 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 11:04:52 PM  Sep 27, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:13:26 PM  Sep 27, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:17:42 PM  Sep 27, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:21:20 PM  Sep 27, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 63789. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'CP' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch2 has been created.
+        [info] Boundary Wave Port Wave_Port2 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch3 has been created.
+        [info] Boundary Wave Port Wave_Port3 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch4 has been created.
+        [info] Boundary Wave Port Wave_Port4 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'CP' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch2 has been created.
+        [info] Boundary Wave Port Wave_Port2 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch3 has been created.
+        [info] Boundary Wave Port Wave_Port3 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch4 has been created.
+        [info] Boundary Wave Port Wave_Port4 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'CP' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch2 has been created.
+        [info] Boundary Wave Port Wave_Port2 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch3 has been created.
+        [info] Boundary Wave Port Wave_Port3 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch4 has been created.
+        [info] Boundary Wave Port Wave_Port4 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Project Spherical_Array Saved correctly
+        [warning] Failed to close Project Spherical_Array
+        [warning] Failed to close Project Spherical_Array
+        [warning] Failed to close Project Spherical_Array
+      Spherical_Array (C:/Users/ITA/AppData/Local/Temp/tmpixr74w5c.ansys/)
+        CP (Modal Network)
+          [warning] 'Solve inside' for object 'Gnd_Sphere' is unset, due to material assignment change. (11:26:17 PM  Sep 27, 2025)
+      Spherical_Array (C:/Users/ITA/AppData/Local/Temp/tmpqu3vkk_z.ansys/)
+        CP (Modal Network)
+          [warning] 'Solve inside' for object 'Gnd_Sphere' is unset, due to material assignment change. (11:29:13 PM  Sep 27, 2025)
+          [error] Script macro error: Cannot perform command because multiple projects are named Spherical_Array. (11:31:48 PM  Sep 27, 2025)
+          [error] Script macro error: Cannot perform command because multiple projects are named Spherical_Array. (11:31:48 PM  Sep 27, 2025)
+          [error] Script macro error: Cannot perform command because multiple projects are named Spherical_Array. (11:31:48 PM  Sep 27, 2025)
+      Spherical_Array (C:/Users/ITA/AppData/Local/Temp/tmprkez7nxs.ansys/)
+        CP (Modal Network)
+          [warning] 'Solve inside' for object 'Gnd_Sphere' is unset, due to material assignment change. (11:22:01 PM  Sep 27, 2025)
+-- Message Window --
+Stopping Batch Run: 11:31:56 PM  Sep 27, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:24:06 PM  Sep 28, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 65052. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'CP' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch2 has been created.
+        [info] Boundary Wave Port Wave_Port2 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch3 has been created.
+        [info] Boundary Wave Port Wave_Port3 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch4 has been created.
+        [info] Boundary Wave Port Wave_Port4 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 12:31:19 PM  Sep 28, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:31:42 PM  Sep 28, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 65190. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'CP' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch2 has been created.
+        [info] Boundary Wave Port Wave_Port2 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch3 has been created.
+        [info] Boundary Wave Port Wave_Port3 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch4 has been created.
+        [info] Boundary Wave Port Wave_Port4 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmprydn83d6.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmprydn83d6.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.029578447341918945
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Open Region correctly created.
+        [info] Project Spherical_Array Saved correctly
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmprydn83d6.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmprydn83d6.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 8sec
+        [info] aedt file load time 8.514174699783325
+        [info] Open Region correctly created.
+        [info] Project Spherical_Array Saved correctly
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmprydn83d6.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmprydn83d6.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 12sec
+        [info] aedt file load time 11.632410049438477
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:57:00 PM  Sep 28, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 65348. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'CP' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch2 has been created.
+        [info] Boundary Wave Port Wave_Port2 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch3 has been created.
+        [info] Boundary Wave Port Wave_Port3 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch4 has been created.
+        [info] Boundary Wave Port Wave_Port4 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmppv8a9csg.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmppv8a9csg.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.025568485260009766
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Open Region correctly created.
+        [info] Project Spherical_Array Saved correctly
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmppv8a9csg.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmppv8a9csg.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 8sec
+        [info] aedt file load time 8.197885513305664
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 31.0m 31.0s
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Active Design set to CP
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 1:38:16 PM  Sep 28, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 1:38:32 PM  Sep 28, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+[warning] Electronics Desktop cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[warning] Electronics Desktop cannot be closed right now because it is being used by another application, script or extension wizard.
+

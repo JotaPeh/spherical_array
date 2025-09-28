@@ -1,0 +1,365 @@
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 7:19:46 PM  May 12, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 53277. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'LP_TM01' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 1sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 7:37:41 PM  May 12, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 7:38:01 PM  May 12, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 8:55:59 PM  May 12, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 53893. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'LP_TM01' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 1sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Open Region correctly created.
+        [info] Project Spherical_Array Saved correctly
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmpk51_jguc.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmpk51_jguc.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 3sec
+        [info] aedt file load time 2.9967563152313232
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 9:03:49 PM  May 12, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:06:16 AM  May 16, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+[error] While parsing expression: "-Dphi/2", an error was found near character 5. 'Dphi' is not a defined variable name in this context.
+
+[error] While parsing expression: "Dphi-360deg", an error was found near character 4. 'Dphi' is not a defined variable name in this context.
+
+[error] While parsing expression: "-Dphi/2", an error was found near character 5. 'Dphi' is not a defined variable name in this context.
+
+[error] While parsing expression: "Dphi-360deg", an error was found near character 4. 'Dphi' is not a defined variable name in this context.
+
+-- Message Window --
+      *Global - Messages
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 10:18:39 AM  May 16, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:42:11 AM  May 16, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:47:59 AM  May 16, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 63153. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'LP_TM01' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 1sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Open Region correctly created.
+        [info] Project Spherical_Array Saved correctly
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmp0r8gpuhn.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmp0r8gpuhn.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 3sec
+        [info] aedt file load time 2.966581344604492
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 7.0m 51.0s
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 11:01:28 AM  May 16, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:01:22 PM  May 16, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+[info] GRPC server running on port: 64278.
+
+[warning] Project:Spherical_Array, Design:LP_TM01 (Modal Network), 'Solve inside' for object 'Gnd_Sphere' is unset, due to material assignment change. (02:01:38 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:10:23 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:10:23 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:10:23 PM  May 16, 2025)
+[error] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Report 'Z_11_HFSS' not found. (02:10:24 PM  May 16, 2025)
+[error] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Script macro error: Abnormal script termination. (02:10:24 PM  May 16, 2025)
+[warning] Project:Spherical_Array, Design:LP_TM01 (Modal Network), The variable  'Phase' doesn't have an associated sweep and is excluded from the definition of trace. (02:10:24 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:20:14 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:20:14 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:20:15 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:20:34 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:20:34 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:20:34 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:20:53 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:20:53 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:20:53 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:21:13 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:21:13 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:21:13 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:21:34 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:21:34 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:21:34 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:21:56 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:21:56 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:21:56 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:22:16 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:22:16 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:22:16 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:22:36 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:22:36 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:22:36 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:22:58 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:22:58 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:22:58 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:23:18 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:23:18 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:23:18 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:23:38 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:23:38 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:23:38 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:23:58 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:23:58 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:23:58 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:24:18 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:24:18 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:24:18 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), A discrete frequency sweep with 11 point(s) has been started using HFSS. (02:24:38 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Discrete frequency sweep complete. (02:24:38 PM  May 16, 2025)
+[info] Project:Spherical_Array, Design:LP_TM01 (Modal Network), Normal completion of simulation on server: Local Machine. (02:24:38 PM  May 16, 2025)
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:30:27 PM  May 16, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:36:03 PM  May 16, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:26:41 PM  May 16, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:46:52 PM  May 16, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 5.0m 52.0s
+        [info] Project Spherical_Array Saved correctly
+        [warning] Failed to close Project Spherical_Array
+        [warning] Failed to close Project Spherical_Array
+      Spherical_Array (C:/Users/ITA/AppData/Local/Temp/tmp1cb9h7tr.ansys/)
+        LP_TM01 (Modal Network)
+          [info] A discrete frequency sweep with 9 point(s) has been started using HFSS. (04:25:58 PM  May 16, 2025)
+          [info] Discrete frequency sweep complete. (04:25:58 PM  May 16, 2025)
+          [info] Normal completion of simulation on server: Local Machine. (04:25:58 PM  May 16, 2025)
+          [warning] The variable  'Phase' doesn't have an associated sweep and is excluded from the definition of trace. (04:25:58 PM  May 16, 2025)
+          [error] Script macro error: Cannot perform command because multiple projects are named Spherical_Array. (04:29:25 PM  May 16, 2025)
+          [error] Script macro error: Cannot perform command because multiple projects are named Spherical_Array. (04:29:25 PM  May 16, 2025)
+-- Message Window --
+Stopping Batch Run: 4:29:35 PM  May 16, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 7:38:20 PM  May 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 7:52:45 PM  May 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 8:31:10 PM  May 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 8:50:28 PM  May 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:12:59 PM  May 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:14:59 PM  May 19, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 55790. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'LP_TM01' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 1sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Open Region correctly created.
+        [info] Project Spherical_Array Saved correctly
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmpcauxhc9a.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmpcauxhc9a.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 3sec
+        [info] aedt file load time 2.844346523284912
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 6.0m 50.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 6.0m 36.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 0.0m 5.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 0.0m 6.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 0.0m 6.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 0.0m 5.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 0.0m 5.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 7.0m 24.0s
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 12:13:31 AM  May 20, 2025

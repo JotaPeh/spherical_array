@@ -1,0 +1,46 @@
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:34:39 PM  May 20, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 57512. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'LP_TM10' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 5sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Open Region correctly created.
+        [info] Project Spherical_Array Saved correctly
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmpppxt03o3.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmpppxt03o3.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 3sec
+        [info] aedt file load time 2.9457390308380127
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 4.0m 35.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 6.0m 20.0s
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 6:53:06 PM  May 20, 2025
