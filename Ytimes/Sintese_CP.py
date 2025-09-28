@@ -6,10 +6,7 @@ import numpy as np
 from functools import partial
 import warnings
 
-i_ger = 7 # Version
-
 def synth_ant(flm_des):
-    print(f'\nVersion: {i_ger}\n')
     # Constantes gerais
     dtr = np.pi/180         # Graus para radianos (rad/°)
     e0 = 8.854e-12          # (F/m)
@@ -136,13 +133,13 @@ def synth_ant(flm_des):
         LLM = alpha/(2 * np.pi * Kex / (2*np.pi*np.sqrt(u0*es)))**2
         return 1/(1/RLM+1j*(2 * np.pi * f * CLM - 1/(2 * np.pi * f * LLM)))
 
-    def Z(f, k01, k10, thetap, phip, tgef01, tgef10, Dtheta, Dphi):
+    def Z(f, k01, k10, thetap, phip, tgef, Dtheta, Dphi):
         L01, M01 = (np.sqrt(1+4*a_bar**2 * k01**2)-1)/2, np.pi/Dphi
         L10, M10 = (np.sqrt(1+4*a_bar**2 * k10**2)-1)/2, 0
         k = (2 * np.pi * f) * np.sqrt(es * u0) 
         eta = np.sqrt(u0 / es)
         Xp = (eta * k * h / (2 * np.pi)) * (np.log(4 / (k * df)) - gamma)
-        return RLC(f, k01, L01, M01, thetap, phip, tgef01, Dtheta, Dphi) + RLC(f, k10, L10, M10, thetap, phip, tgef10, Dtheta, Dphi) + 1j*Xp
+        return RLC(f, k01, L01, M01, thetap, phip, tgef, Dtheta, Dphi) + RLC(f, k10, L10, M10, thetap, phip, tgef, Dtheta, Dphi) + 1j*Xp
 
     def hankel_spher2(n, x, der = 0):
         return sp.riccati_jn(n, x)[der]/x - 1j * sp.riccati_yn(n, x)[der]/x
@@ -255,7 +252,7 @@ def synth_ant(flm_des):
         Sr = np.sum(Sthv)/np.sum(Sphh)
         return Sr
 
-    def Probe(k01, k10, Kef01, Kef10, Dtheta, Dphi):
+    def Probe(k01, k10, Kef, Dtheta, Dphi):
         L01, M01 = (np.sqrt(1+4*a_bar**2 * k01**2)-1)/2, np.pi/Dphi
         L10, M10 = (np.sqrt(1+4*a_bar**2 * k10**2)-1)/2, 0
         theta1c, theta2c = np.pi/2 - Dtheta/2, np.pi/2 + Dtheta/2
@@ -267,13 +264,9 @@ def synth_ant(flm_des):
 
         thetap = np.linspace(theta1, theta2, 101)
 
-        V = (I01 * R(np.cos(theta1c),L10,M10,theta1c))/(2 * I10 * R(np.cos((theta1c+theta2c)/2),L01,M01,theta1c)) * (Kef01**2 - k01**2)/(Kef10**2 - k10**2) * S(np.real(Kef01), Dtheta, Dphi)
+        V = (I01 * R(np.cos(theta1c),L10,M10,theta1c))/(2 * I10 * R(np.cos((theta1c+theta2c)/2),L01,M01,theta1c)) * (Kef**2 - k01**2)/(Kef**2 - k10**2) * S(np.real(Kef), Dtheta, Dphi)
         phip = phi1c + np.arccos(R(np.cos(thetap),L10,M10,theta1c) / R(np.cos(thetap),L01,M01,theta1c) * np.abs(V)) / M01
         
-        mask = ~np.isnan(phip)
-        phip = phip[mask]
-        thetap = thetap[mask]
-
         return phip, thetap
 
     # Início do Projeto
@@ -281,9 +274,7 @@ def synth_ant(flm_des):
         k01 = k10 = 2*np.pi*flm_des*np.sqrt(u0*es)
         Dtheta = Theta_find(k10)[0]
         Dphi = Phi_find(k01, Dtheta)[-1]
-        # tgef = (tgefTot(k10, '10', Dtheta, Dphi) + tgefTot(k01, '01', Dtheta, Dphi))/2
-        tgef01 = tgefTot(k01, '01', Dtheta, Dphi)
-        tgef10 = tgefTot(k10, '10', Dtheta, Dphi)
+        tgef = (tgefTot(k10, '10', Dtheta, Dphi) + tgefTot(k01, '01', Dtheta, Dphi))/2
     
         epsilon = 1
         tol = 1e-4
@@ -291,39 +282,35 @@ def synth_ant(flm_des):
         while epsilon > tol:
             steps += 1
             kl = k10 + p*(k01 - k10)
-            # kll = kl*tgef/2
-            k01ll = kl*tgef01/2
-            k10ll = kl*tgef10/2
+            kll = kl*tgef/2
             phaseK = np.pi/2 - np.angle(S(kl, Dtheta, Dphi))
 
             k01prev = k01
             k10prev = k10
 
             # Supondo-se k01 > k10
-            # k10 = kl - (-1/np.tan(phaseK) + np.sqrt((1/np.tan(phaseK))**2 + 4*(1-p)*p) ) * kll / (2*(1-p))
-            # k01 = kl + (-1/np.tan(phaseK) + np.sqrt((1/np.tan(phaseK))**2 + 4*(1-p)*p) ) * kll / (2*p)
-            k10 = kl - ((k10ll+p*(k01ll-k10ll))/np.tan(phaseK) + np.sqrt(((k10ll-p*(k01ll+k10ll))**2/np.tan(phaseK))**2 + 4*(1-p)*p*k01ll*k10ll) ) / (2*(1-p))
-            k01 = kl + ((k10ll+p*(k01ll-k10ll))/np.tan(phaseK) + np.sqrt(((k10ll-p*(k01ll+k10ll))**2/np.tan(phaseK))**2 + 4*(1-p)*p*k01ll*k10ll) ) / (2*p)
+            k10 = kl - (-1/np.tan(phaseK) + np.sqrt((1/np.tan(phaseK))**2 + 4*(1-p)*p) ) * kll / (2*(1-p))
+            k01 = kl + (-1/np.tan(phaseK) + np.sqrt((1/np.tan(phaseK))**2 + 4*(1-p)*p) ) * kll / (2*p)
             
             Dtheta = Theta_find(k10)[0]
             Dphi = Phi_find(k01, Dtheta)[-1]
-            # tgef = (1-p)*tgefTot(k10, '10', Dtheta, Dphi) + p*tgefTot(k01, '01', Dtheta, Dphi)
-            tgef01 = tgefTot(k01, '01', Dtheta, Dphi)
-            tgef10 = tgefTot(k10, '10', Dtheta, Dphi)
+            tgef = (1-p)*tgefTot(k10, '10', Dtheta, Dphi) + p*tgefTot(k01, '01', Dtheta, Dphi)
 
             epsilon = np.max([np.abs(k01prev - k01), np.abs(k10prev - k10)])
 
-        Ph, Th = Probe(k01, k10, kl-1j*k01ll, kl-1j*k10ll, Dtheta, Dphi)
+        Ph, Th = Probe(k01, k10, kl-1j*kll, Dtheta, Dphi)
 
         Phtheta = interp1d(Th, Ph)
 
+        theta2c = np.pi/2 + Dtheta/2
+
         def Z50(theta):
-            return np.real(Z(flm_des, k01, k10, theta, Phtheta(theta), tgef01, tgef10, Dtheta, Dphi))-50
-        root = root_scalar(Z50, bracket=[np.pi/2, Th[-1]], method='bisect')
+            return np.real(Z(flm_des, k01, k10, theta, Phtheta(theta), tgef, Dtheta, Dphi))-50
+        root = root_scalar(Z50, bracket=[np.pi/2, theta2c-0.02], method='bisect')
 
         thetap = np.array(root.root)
 
-        Zin = Z(flm_des, k01, k10, thetap, Phtheta(thetap), tgef01, tgef10, Dtheta, Dphi)
+        Zin = Z(flm_des, k01, k10, thetap, Phtheta(thetap), tgef, Dtheta, Dphi)
 
         if  Analysis:
             Dphia = Dphi - 2*deltaPhi
@@ -336,7 +323,7 @@ def synth_ant(flm_des):
         warnings.simplefilter("ignore")
         root = root_scalar(Wrapper, bracket=[0.5, 0.7], method='bisect', xtol = 1e-4)
         Dphia, Dthetaa, thetap, phip, tg01, tg10 = imZin(np.array(root.root), Analysis = 1)
-    print('p = ', np.array(root.root))
+    #print('p = ', np.array(root.root))
 
     parametros = np.array([Dthetaa, Dphia, thetap, phip])
     estimativas = np.array([np.exp(1.5)*df/(2*a_bar*np.sin(thetap)), 0.0, 0.0, tg01, tg10, deltatheta, deltaPhi])
@@ -535,7 +522,7 @@ def synth_ant_pos(flm_des, estim):
         Sr = np.sum(Sthv)/np.sum(Sphh)
         return Sr
 
-    def Probe(k01, k10, Kef01, Kef10, Dtheta, Dphi):
+    def Probe(k01, k10, Kef, Dtheta, Dphi):
         L01, M01 = (np.sqrt(1+4*a_bar**2 * k01**2)-1)/2, np.pi/Dphi
         L10, M10 = (np.sqrt(1+4*a_bar**2 * k10**2)-1)/2, 0
         theta1c, theta2c = np.pi/2 - Dtheta/2, np.pi/2 + Dtheta/2
@@ -547,7 +534,7 @@ def synth_ant_pos(flm_des, estim):
 
         thetap = np.linspace(theta1, theta2, 101)
 
-        V = (I01 * R(np.cos(theta1c),L10,M10,theta1c))/(2 * I10 * R(np.cos((theta1c+theta2c)/2),L01,M01,theta1c)) * (Kef01**2 - k01**2)/(Kef10**2 - k10**2) * S(np.real(Kef01), Dtheta, Dphi)
+        V = (I01 * R(np.cos(theta1c),L10,M10,theta1c))/(2 * I10 * R(np.cos((theta1c+theta2c)/2),L01,M01,theta1c)) * (Kef**2 - k01**2)/(Kef**2 - k10**2) * S(np.real(Kef), Dtheta, Dphi)
         phip = phi1c + np.arccos(R(np.cos(thetap),L10,M10,theta1c) / R(np.cos(thetap),L01,M01,theta1c) * np.abs(V)) / M01
         
         mask = ~np.isnan(phip)
@@ -561,7 +548,7 @@ def synth_ant_pos(flm_des, estim):
         k01 = k10 = 2*np.pi*flm_des*np.sqrt(u0*es)
         Dtheta = Theta_find(k10)[0]
         Dphi = Phi_find(k01, Dtheta)[-1]
-        # tgef = (tg10+tg01)/2
+        tgef = (tg10+tg01)/2
     
         epsilon = 1
         tol = 1e-4
@@ -569,27 +556,23 @@ def synth_ant_pos(flm_des, estim):
         while epsilon > tol and steps<20:
             steps += 1
             kl = k10 + p*(k01 - k10)
-            #kll = kl*tgef/2
-            k01ll = kl*tg01/2
-            k10ll = kl*tg10/2
+            kll = kl*tgef/2
             phaseK = np.pi/2 - np.angle(S(kl, Dtheta, Dphi))
 
             k01prev = k01
             k10prev = k10
 
             # Supondo-se k01 > k10
-            # k10 = kl - (-1/np.tan(phaseK) + np.sqrt((1/np.tan(phaseK))**2 + 4*(1-p)*p) ) * kll / (2*(1-p))
-            # k01 = kl + (-1/np.tan(phaseK) + np.sqrt((1/np.tan(phaseK))**2 + 4*(1-p)*p) ) * kll / (2*p)
-            k10 = kl - ((k10ll+p*(k01ll-k10ll))/np.tan(phaseK) + np.sqrt(((k10ll-p*(k01ll+k10ll))**2/np.tan(phaseK))**2 + 4*(1-p)*p*k01ll*k10ll) ) / (2*(1-p))
-            k01 = kl + ((k10ll+p*(k01ll-k10ll))/np.tan(phaseK) + np.sqrt(((k10ll-p*(k01ll+k10ll))**2/np.tan(phaseK))**2 + 4*(1-p)*p*k01ll*k10ll) ) / (2*p)
+            k10 = kl - (-1/np.tan(phaseK) + np.sqrt((1/np.tan(phaseK))**2 + 4*(1-p)*p) ) * kll / (2*(1-p))
+            k01 = kl + (-1/np.tan(phaseK) + np.sqrt((1/np.tan(phaseK))**2 + 4*(1-p)*p) ) * kll / (2*p)
             
             Dtheta = Theta_find(k10)[0]
             Dphi = Phi_find(k01, Dtheta)[-1]
-            # tgef = (1-p)*tg10 + p*tg01
+            tgef = (1-p)*tg10 + p*tg01
 
             epsilon = np.max([np.abs(k01prev - k01), np.abs(k10prev - k10)])
 
-        Ph, Th = Probe(k01, k10, kl-1j*k01ll, kl-1j*k10ll, Dtheta, Dphi)
+        Ph, Th = Probe(k01, k10, kl-1j*kll, Dtheta, Dphi)
 
         Phtheta = interp1d(Th, Ph)
 
@@ -617,8 +600,8 @@ def synth_ant_pos(flm_des, estim):
     parametros = np.array([Dthetaa, Dphia, thetap, phip])
     return parametros
 
-# center_freq = 1575.42e6
 
-#print(synth_ant(center_freq))
-
-# print(synth_ant_pos(center_freq,  [0.02421119,  0.75725048, -0.00428461,  0.01328998,  0.01536107,  0.0082358,  0.00772265]))
+#print(synth_ant_pos(1575.42e6, [0.02903818, 0.01378051, 0.01301588, 0.01524,    0.01524   ]))
+#print(synth_ant_pos(1575.42e6, [0.03300348, 0.01294931, 0.01449906, 0.00850071, 0.00847083]))
+#print(synth_ant_pos(1575.42e6, [ 2.89400e-02, -3.10956e+00, -7.00000e-04,  1.98700e-02,  1.65900e-02,  8.43000e-03,  8.33000e-03]))
+#print(synth_ant_pos(1575.42e6, [ 2.81861084e-02, -3.03895000e+00, -6.11646776e-04,  1.50885349e-02,  1.80141102e-02,  8.03639301e-03,  7.98419473e-03]))

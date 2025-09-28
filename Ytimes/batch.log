@@ -1,0 +1,109 @@
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:02:09 PM  Sep 27, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:31:33 PM  Sep 27, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 62068. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'CP' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 10sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Open Region correctly created.
+        [info] Project Spherical_Array Saved correctly
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmp70pvnxch.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmp70pvnxch.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 3sec
+        [info] aedt file load time 3.288017511367798
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 5.0m 50.0s
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 4:42:17 PM  Sep 27, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:42:41 PM  Sep 27, 2025
+Running as user : SAGITARIO\ITA
+Temp directory: C:\Users\ITA\AppData\Local\Temp
+Project directory: C:\Users\ITA\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 62350. 
+        [info] Project Spherical_Array has been created.
+        [info] Added design 'CP' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 1sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Finite Conductivity Coating_Patch1 has been created.
+        [info] Boundary Wave Port Wave_Port1 has been created.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Deleted 1 Objects: Patch_Sphere.
+        [info] Open Region correctly created.
+        [info] Project Spherical_Array Saved correctly
+        [info] Parsing C:/Users/ITA/AppData/Local/Temp/tmpmkbckpcq.ansys/Spherical_Array.aedt.
+        [info] File C:/Users/ITA/AppData/Local/Temp/tmpmkbckpcq.ansys/Spherical_Array.aedt correctly loaded. Elapsed time: 0m 3sec
+        [info] aedt file load time 3.0678818225860596
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 5.0m 39.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 9.0m 12.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 11.0m 52.0s
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Active Design set to CP
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Solving design setup GPS_Band
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup GPS_Band solved correctly in 0.0h 32.0m 42.0s
+        [info] Project Spherical_Array Saved correctly
+-- Message Window --
+Stopping Batch Run: 6:43:16 PM  Sep 27, 2025
