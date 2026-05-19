@@ -1,0 +1,35 @@
+01/11/2025 13:11:08
+Geometry: [a, er, h] = [0.1, 2.55, 0.001524]
+Param: Dthetaa, Dphia, thetap1, phip1
+Estim: Dphip, Y, phip_pos, tg01, tg10, deltatheta, deltaPhi
+
+Iteration 0:
+-> Parameters (rad): [0.57117745 0.56652357 1.66309399 1.64614019]
+-> Estimates: [0.02903426 0.         0.         0.01377947 0.01301709 0.01524
+ 0.01524   ]
+-> Parameters (deg): [32.72605751 32.45940968 95.2882668  94.31688561]
+
+-> Estimates between: [ 0.03193769  0.8        -0.008       0.01653537  0.0156205   0.009144
+  0.009144  ]
+
+Iteration 1:
+-> Parameters (rad): [0.58577966 0.58131649 1.67119923 1.64901786]
+-> Estimates: [ 0.03726364  0.76586854 -0.00609408  0.01241652  0.01635434  0.0080928
+  0.00773792]
+-> Parameters (deg): [33.56270227 33.30698142 95.75266286 94.48176379]
+
+Iteration 2:
+-> Parameters (rad): [0.58574961 0.5814837  1.66819249 1.64960034]
+-> Estimates: [ 0.03258813  0.77204579 -0.0029865   0.01346119  0.01522645  0.00816777
+  0.0076792 ]
+-> Parameters (deg): [33.56098035 33.31656196 95.58038899 94.51513715]
+
+
+3dB Beamwidth Results:
+
+3dB Beamwidth Results:
+
+3dB Beamwidth RHCP Theta=90°: 33 degrees
+3dB Beamwidth LHCP Theta=90°: 88 degrees
+3dB Beamwidth RHCP Phi=90°: 33 degrees
+3dB Beamwidth LHCP Phi=90°: 89 degrees
